@@ -128,17 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-# Data dir
-preprocessed/
-
-# wandb log
-wandb/
-
-# outputs
-output_test/
-02/
-03/
-
-# jupyternotebooks
-*.ipynb
